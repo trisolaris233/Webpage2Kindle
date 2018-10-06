@@ -24,7 +24,7 @@ if(!empty($_POST)) {
         $mail->CharSet = "UTF-8";
         $mail->Encoding = "base64";
         $mail->Username = "qwq@lose7.org";
-        $mail->Password = "ybmwjhhdm";
+        $mail->Password = "xxxxxxxxxx";
         $mail->Subject = "convert";
         $mail->From = "qwq@lose7.org";
         $mail->FromName = "qwq";
